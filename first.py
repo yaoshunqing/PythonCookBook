@@ -2,7 +2,10 @@
 # @Author : Yao
 # @File : first.py
 # @Software: PyCharm
+import time
 
-
+while 1:
+    print("Hello") #你好
+    time.sleep(10)
 
 
